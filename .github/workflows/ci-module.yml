@@ -1,3 +1,6 @@
+
+brew install gitleaks  # or binary
+
 name: ci
 
 on:
